@@ -1,0 +1,2 @@
+# console_logger-0000000000000000000000000000
+Simple JavaScript Code
